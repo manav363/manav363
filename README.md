@@ -29,10 +29,10 @@
 
 ### Who I Am
 
-- 🎓 First-year **Computer Science** student at Newton School of Technology, Sonipat
+- 🎓 **Computer Science** student at Newton School of Technology, Sonipat
 - 🤖 Building AI-powered applications with **LangChain**, **Groq (Llama 4)** & **FastAPI**
 - 📈 Exploring the intersection of **machine learning and financial markets**
-- 🧠 Self-taught beyond the syllabus — shipped an ML trading AI in Year 1
+- 🧠 Self-taught beyond the syllabus — shipped an ML trading AI.
 - 🌱 Currently deepening skills in **DSA**, **system design**, and **MLOps**
 - 💬 Ask me about Python, React, or building AI agents from scratch
 - 📬 Reach me at **manavgarg2326@gmail.com**

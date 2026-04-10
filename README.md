@@ -159,19 +159,9 @@ Responsive e-commerce storefront with product listings, cart UI, and clean layou
 
 ---
 
-### 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=manav363&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6" />
-
-</div>
-
----
-
-<div align="center">
-
-*"Still in first year — building like it's day one of a startup."*
+*"Building like it's day one of a startup."*
 
 <br/>
 

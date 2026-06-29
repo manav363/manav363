@@ -33,7 +33,7 @@
 |---------|-------------|
 | [🤖 Intraday Trading AI (India)](https://github.com/manav363/intraday-trading-ai-india) | ML-powered intraday trading for NSE/NIFTY with walk-forward validation, news sentiment & ₹-based risk management |
 | [🧠 Personal AI Assistant](https://github.com/manav363/personal-ai-assistant) | AI assistant with web search, calculator & memory — built with LangChain, Groq (Llama 4), FastAPI & React |
-| [📊 Market Regime Detection](https://github.com/manav363/market-regime-detection) | ML-driven market regime detection with walk-forward validation and risk management |
+| [📊 Indicant](https://github.com/manav363/indicant) | ML-driven market regime detection with walk-forward validation and risk management |
 | [📦 Inventory System](https://github.com/manav363/inventory-system) | React inventory manager with dashboard & tracking — Vite, Tailwind, Context API |
 | [🎬 CineStats](https://github.com/manav363/CineStats) | Movie statistics web app |
 
